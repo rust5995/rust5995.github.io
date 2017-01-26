@@ -1,0 +1,39 @@
+body{
+  background-image: url(images/4.jpg);
+}
+
+
+
+#dog{
+  color:#F0F0F0 ;
+  background-color: red;
+  font-size: 20px;
+margin-left: 20%;
+margin-right: 20%;
+}
+#sleep{
+  color:black;
+  background-color:#808084 ;
+  font-size: 20px;margin-left: 20%;
+  margin-right: 20%;
+}
+#pig{
+  color: red;
+  background-color: black;
+  font-size: 20px;margin-left: 20%;
+  margin-right: 20%;
+}
+#pin{
+  color:#4085F5;
+  background-color: #D8E1FB;
+  font-size: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+#dig{
+  color:#FF00AE;
+  background-color:#C1C1C1;
+  font-size: 25px;
+  margin-left: 15%;
+  margin-right: 5%;
+}

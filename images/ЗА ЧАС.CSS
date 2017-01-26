@@ -1,0 +1,30 @@
+body{
+background-image:url(images/1.jpg);
+}
+#test{
+transform:; scale(0.1);
+transition:1s all;
+
+
+  background-color: #fff;
+  color: #333;
+  padding: 15px;
+  margin: 15px;
+  border: 7px solid #17586A;
+border-radius: 10px;
+opacity: 0.5;
+box-shadow: 13px 13px 7px #000000;
+display:block;
+text-align: center;
+font-size: 100px;
+font-weight: 800px;
+
+}
+#test:hover{
+  opacity: 1
+}
+#test:hover{
+  transform: rotate(360deg)scale(0.2);
+
+  background-color: red;
+}
